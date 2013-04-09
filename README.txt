@@ -69,7 +69,7 @@ Releases
 	    - Binaries https://dl.dropbox.com/u/2752232/SharpOtpLib/SharpOtpLib_Binaries_v1.0.zip
 	    - Documentation: https://dl.dropbox.com/u/2752232/SharpOtpLib/SharpOtpLib_Documentation_v1.0.zip
 	    - Source Zip: https://dl.dropbox.com/u/2752232/SharpOtpLib/SharpOtpLib_Source_v1.0.zip
-	    - Source Git: http://github.dk/hyberdk/SharpOTPlib/
+	    - Source Git: https://github.com/hyberdk/SharpOtpLib
 	
 	B. Changelog
 	------------
